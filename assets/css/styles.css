@@ -1,11 +1,5 @@
-* {
-    margin: 0;
-    padding: 0;
-
-}
-
 body {
-    background-image: url("https://img.freepik.com/vector-gratis/fondo-marco-comico_79603-1916.jpg?w=1380&t=st=1713196633~exp=1713197233~hmac=cc10ba61a5bb9396be51a8bceba8c54fe95aa04fad42dd90f914d73ce635ac35");
+    background-image: url("/assets/img/4883373.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
